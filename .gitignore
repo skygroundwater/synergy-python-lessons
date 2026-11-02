@@ -1,0 +1,9 @@
+.runtime/
+__pycache__/
+*.py[cod]
+audit.json
+screenshots/
+submissions/
+*.zip
+savegame.json
+
